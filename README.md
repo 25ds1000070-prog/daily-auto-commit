@@ -1,1 +1,1 @@
-# daily-auto-commit
+[![Daily Automated Commit](https://github.com/25ds1000070-prog/daily-auto-commit/actions/workflows/daily-auto-commit.yml/badge.svg)](https://github.com/25ds1000070-prog/daily-auto-commit/actions/workflows/daily-auto-commit.yml)
